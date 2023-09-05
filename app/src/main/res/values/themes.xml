@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppReproductordemusica" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.AppReproductordemusica" parent="Base.Theme.AppReproductordemusica" />
+
+    <style name="MiTema1" parent="Theme.AppCompat.Light">
+        <item name="android:windowBackground">#1D2791</item>
+        <item name="android:textColor">#AC570C</item>
+    </style>
+
+    <style name="MiTema2" parent="Theme.AppCompat.Light">
+        <item name="android:windowBackground">#091334</item>
+        <item name="android:textColor">#CC0B1F</item>
+    </style>
+
+</resources>
